@@ -5,7 +5,7 @@
 
 ## 技术栈
 ![PHP](https://img.shields.io/badge/-PHP-orange?logo=PHP)
-![Python](https://img.shields.io/badge/-Python-black?logo=Pythonn)
+![Python](https://img.shields.io/badge/-Python-black?logo=Python)
 ![微信小程序](https://img.shields.io/badge/-微信小程序-blue?logo=微信小程序)
 ![HTML5](https://img.shields.io/badge/-HTML-black?logo=HTML5)
 ![Javascript](https://img.shields.io/badge/-Javascript-orange?logo=Javascript)
