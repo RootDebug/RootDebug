@@ -4,7 +4,7 @@
 感谢您访问我的主页，不妨给个关注。
 
 ## 技术栈
-![PHP](https://img.shields.io/badge/-java-red?logo=php)
+![PHP](https://img.shields.io/badge/-PHP-red?logo=PHP)
 ![VueJS](https://img.shields.io/badge/-Vue-green?logo=vuejs)
 
 
