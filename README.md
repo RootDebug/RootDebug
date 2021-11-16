@@ -10,7 +10,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML-black?logo=HTML5)
 ![Javascript](https://img.shields.io/badge/-Javascript-orange?logo=Javascript)
 ![JQuery](https://img.shields.io/badge/-Javascript-red?logo=JQuery)
-![VueJS](https://img.shields.io/badge/-Vue-green?logo=vuejs)
+![VueJS](https://img.shields.io/badge/-Vue-red?logo=Vue.Js)
 
 
 ## 定制化
